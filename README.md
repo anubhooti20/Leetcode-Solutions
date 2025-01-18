@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
