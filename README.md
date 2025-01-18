@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
