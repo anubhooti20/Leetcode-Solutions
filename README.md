@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/anubhooti20/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 ## Combinatorics
 |  |
 | ------- |
